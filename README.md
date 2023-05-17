@@ -1,6 +1,6 @@
 # Machine Learning Trends Analysis
 
-This repository contains an analysis of research papers, mainly focused on machine learning trends. The papers are collected from various events and have been processed into a CSV file located at `datasets/papers.csv`.
+This repository contains an analysis of research papers, mainly focused on machine learning trends. The papers are collected from various events and have been processed into a CSV file which can be downloaded from [kaggle](https://www.kaggle.com/datasets/benhamner/nips-papers?select=papers.csv)
 
 ## Project Overview
 
