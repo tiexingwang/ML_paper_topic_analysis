@@ -12,7 +12,6 @@ This repository includes:
 
 - Jupyter notebooks containing the detailed exploratory analysis and LDA modeling.
 - Python scripts used for data cleaning, analysis, and visualization.
-- Raw and processed data files in the `datasets` directory.
 
 ## Key Insights
 
